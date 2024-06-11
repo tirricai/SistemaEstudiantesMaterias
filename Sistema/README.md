@@ -165,4 +165,3 @@ Repositorio para el TP final de AyP III - Programación de bajo nivel
         Se itera la lista buscando que coincida el id de la materia pasada por parametro con la de la lista
         Si hay match, se elimina de la lista de materias en curso.
 
-#### Trabajo realizado por: Juan Pablo Miguel, Enzo Mauas, Camila Di Mario, Pedro De Gaspari
