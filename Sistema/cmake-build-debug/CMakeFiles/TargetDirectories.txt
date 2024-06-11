@@ -1,0 +1,3 @@
+C:/Users/Juampi/Desktop/Untref/AYP3/AYP3/Sistema/cmake-build-debug/CMakeFiles/Sistema.dir
+C:/Users/Juampi/Desktop/Untref/AYP3/AYP3/Sistema/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Juampi/Desktop/Untref/AYP3/AYP3/Sistema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
